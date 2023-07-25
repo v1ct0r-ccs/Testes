@@ -36,6 +36,4 @@ public class NomesFemininosTeste {
 
         Assert.assertNotEquals("Masculino", empFemi.getGenero());
     }
-
-
 }
